@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://excellentdavid.github.io/spreadjs-resource-hexo
+url: https://excellentdavid.github.io/spreadjs-resource-hexo
+root: /spreadjs-resource-hexo/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
